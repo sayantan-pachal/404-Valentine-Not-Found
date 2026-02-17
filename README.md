@@ -120,4 +120,5 @@ src/
 
 # 👤 Author
 **Sayantan Pachal**
+<br>
 *Aspiring CSE Student • Full-Stack Developer • AI Learner*
