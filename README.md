@@ -4,7 +4,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-fast-646CFF?logo=vite)
 ![EmailJS](https://img.shields.io/badge/EmailJS-integrated-orange)
-![PDF.js](https://img.shields.io/badge/PDF.js-integrated-yellow?logo=adobeacrobatreader)
+![PDFjs](https://img.shields.io/badge/PDFjs-integrated-yellow?logo=adobeacrobatreader)
 ![React PDF](https://img.shields.io/badge/react--pdf-viewer-yellowgreen)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
