@@ -18,60 +18,105 @@ The project focuses on **clarity, scalability, and maintainability**, keeping UI
 ## 📁 Project Architecture
 
 ```txt
-src/
+PORTFOLIO-ARCHITECTURE
 │
-├── Components/
-│   ├── Home/
-│   │   ├── Home.jsx
-│   │   └── Parts/
-│   │       ├── HomeIntro.jsx
-│   │       ├── HomeWork.jsx
-│   │       └── HomeEdu.jsx
-│   │
-│   ├── Contact/
-│   │   ├── Contact.jsx
-│   │   └── Containers/
-│   │       ├── ContactGrid.jsx
-│   │       └── ContactForm.jsx
-│   │
-│   ├── Projects/
-│   │   ├── Project.jsx
-│   │   └── ProjectGrid/
-│   │       └── ProjectGrid.jsx
-│   │
-│   ├── Resume/
-│   │   └── Resume.jsx
-│   │
-│   ├── Achievements/
-│   │   └── Achievements1.jsx
-│   │
-│   ├── Common/
-│   │   └── Logo.jsx
-│   │
-│   └── Edgecase/
-│       └── Edgecase.jsx
+├── public/
+│   └── favicon.svg
 │
-├── Data/
-│   ├── About/
-│   │   └── about.js
-│   ├── Blog/
-│   │   └── blogPosts.js
-│   ├── Contact/
-│   │   └── social_contacts.js
-│   ├── Education/
-│   │   └── educations.js
-│   ├── HomeIntro/
-│   │   └── homeintro.js
-│   └── Project/
-│       └── projects.js
+├── src/
+│   │
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── pdf/
+│   │       └── resume.pdf
+│   │
+│   ├── Components/
+│   │   │
+│   │   ├── Header/
+│   │   │   ├── Header.jsx
+│   │   │   └── ThemeToggle.jsx
+│   │   │
+│   │   ├── Footer/
+│   │   │   ├── Footer.jsx
+│   │   │   └── Components/
+│   │   │       ├── Social.jsx
+│   │   │       └── Resources.jsx
+│   │   │
+│   │   ├── Home/
+│   │   │   ├── Home.jsx
+│   │   │   └── Parts/
+│   │   │       ├── HomeIntro.jsx
+│   │   │       ├── HomeWork.jsx
+│   │   │       └── HomeEdu.jsx
+│   │   │
+│   │   ├── About/
+│   │   │   └── About.jsx
+│   │   │
+│   │   ├── Blog/
+│   │   │   └── Blog.jsx
+│   │   │
+│   │   ├── Projects/
+│   │   │   ├── Project.jsx
+│   │   │   └── ProjectGrid/
+│   │   │       └── ProjectGrid.jsx
+│   │   │
+│   │   ├── Education/
+│   │   │   ├── Education.jsx
+│   │   │   ├── Institution/
+│   │   │   │   ├── Institution1.jsx
+│   │   │   │   └── Institution2.jsx
+│   │   │   ├── Achievements/
+│   │   │   │   ├── Achievements1.jsx
+│   │   │   │   └── Achievements2.jsx
+│   │   │   └── Certifications/
+│   │   │       ├── Certifications1.jsx
+│   │   │       └── Certifications2.jsx
+│   │   │
+│   │   ├── Contact/
+│   │   │   ├── Contact.jsx
+│   │   │   └── Containers/
+│   │   │       ├── ContactForm.jsx
+│   │   │       └── ContactGrid.jsx
+│   │   │
+│   │   ├── Resume/
+│   │   │   └── Resume.jsx
+│   │   │
+│   │   └── Edgecase.jsx
+│   │
+│   ├── Data/
+│   │   ├── About/
+│   │   │   └── about.js
+│   │   ├── BlogPost/
+│   │   │   └── blogPost.js
+│   │   ├── Contact/
+│   │   │   └── contact.js
+│   │   ├── Education/
+│   │   │   └── education.js
+│   │   ├── HomeIntro/
+│   │   │   └── homeintro.js
+│   │   └── Projects/
+│   │       └── projects.js
+│   │
+│   ├── utils/
+│   │   └── scrollAnimation.js
+│   │
+│   ├── styles/
+│   │   └── animations.css
+│   │
+│   ├── index.css
+│   ├── Layout.jsx
+│   └── main.jsx
 │
-├── styles/
-│   └── animations.css
-│
-├── scrollAnimation.js
-│
-├── App.jsx
-└── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
 ```
 
 # 🧠 Design Philosophy
