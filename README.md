@@ -177,12 +177,16 @@ PORTFOLIO-ARCHITECTURE
 
 <h2>⚠️ Important Note</h2>
 
-**The code of this repository is made with ChatGPT.**
+**The code of this repository is made with ChatGPT(An AI).**
 
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
+
+<p align="center">
 👤 Author
 <br>
 **Sayantan Pachal**
 <br>
 _Aspiring CSE Student • Full-Stack Developer • AI Learner_
+
+</p>
