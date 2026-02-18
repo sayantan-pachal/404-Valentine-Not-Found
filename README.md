@@ -162,18 +162,16 @@ PORTFOLIO-ARCHITECTURE
 - Smooth UI transitions
 
 <h1>🚧 Error Handling</h1>
-
 - Dedicated Edgecase component
 - Handles:
   - Invalid routes
   - Unexpected navigation errors
 
 <h1>⚠️ Important Note</h1>
-
 **The code of this repository is made with ChatGPT.**
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
-<h1>👤 Author</h1>
-
+👤 Author
 **Sayantan Pachal**
-<p>Aspiring CSE Student • Full-Stack Developer • AI Learner</p>
+<br>
+*Aspiring CSE Student • Full-Stack Developer • AI Learner*
