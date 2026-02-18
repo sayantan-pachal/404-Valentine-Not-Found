@@ -182,9 +182,8 @@ PORTFOLIO-ARCHITECTURE
 > It is a replica of the original project — not the same code, but structured and written in a similar way.
 
 
-<p align="center">👤 Author </p>
-<p align="center">Sayantan Pachal</p>
-
-
- **Aspiring CSE Student • Full-Stack Developer • AI Learner**
-</p>
+👤 Author
+<br>
+**Sayantan Pachal**
+<br>
+_Aspiring CSE Student • Full-Stack Developer • AI Learner_
