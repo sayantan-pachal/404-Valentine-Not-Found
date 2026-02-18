@@ -11,20 +11,19 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
 
+This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
+
 <p align="center">
   <a href="https://sayantanpachal.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=vercel&logoColor=white" alt="Portfolio Website" width="170" />
   </a>
 </p>
 
-This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
-
-
 The project focuses on **clarity, scalability, and maintainability**, keeping UI, data, and logic well separated.
 
 ---
 
-## 📁 Project Architecture
+<h1 align="center">📁 Project Architecture</h1>
 
 ```txt
 PORTFOLIO-ARCHITECTURE
