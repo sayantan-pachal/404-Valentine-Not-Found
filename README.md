@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+<h1 align="center"> Personal Portfolio Website </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
