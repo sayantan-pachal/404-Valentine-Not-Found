@@ -23,7 +23,7 @@ The project focuses on **clarity, scalability, and maintainability**, keeping UI
 
 ---
 
-<h2 align="center">📁 Project Architecture</h2>
+<h2> 📁 Project Architecture </h2>
 
 ```txt
 PORTFOLIO-ARCHITECTURE
@@ -127,7 +127,7 @@ PORTFOLIO-ARCHITECTURE
 └── README.md
 ```
 
-<h2 align="center">🧠 Design Philosophy</h2>
+<h2>🧠 Design Philosophy</h2>
 
 - Component-first approach for clean UI separation
 - Data-driven rendering using mapped data files
@@ -135,7 +135,7 @@ PORTFOLIO-ARCHITECTURE
 - Responsive-first design with Tailwind CSS
 - Minimal logic inside UI components
 
-<h2 align="center"> 📌 Key Features </h2>
+<h2>📌 Key Features</h2>
 
 - Fully responsive layout
 - Dark / light mode support
@@ -146,7 +146,7 @@ PORTFOLIO-ARCHITECTURE
 - Toast notifications for user feedback
 - Graceful 404 / error handling
 
-<h2 align="center"> ✉️ Contact System </h2>
+<h2>✉️ Contact System</h2>
 
 - Built using EmailJS
 - Supports:
@@ -155,27 +155,27 @@ PORTFOLIO-ARCHITECTURE
 - Loading states
 - Success / error notifications
 
-# 📄 Resume Section
+<h2>📄 Resume Section</h2>
 
 - Implemented using react-pdf
 - Responsive rendering for all devices
 - Downloadable PDF resume
 
-# 🎨 Styling & Animation
+<h2>🎨 Styling & Animation</h2>
 
 - Tailwind CSS for utility-first styling
 - Custom keyframe animations
 - Reusable scroll animation helper
 - Smooth UI transitions
 
-# 🚧 Error Handling
+<h2>🚧 Error Handling</h2>
 
 - Dedicated Edgecase component
 - Handles:
   - Invalid routes
   - Unexpected navigation errors
 
-# ⚠️ Important Note
+<h2>⚠️ Important Note</h2>
 
 **The code of this repository is made with ChatGPT.**
 
