@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Responsive-Yes-success" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
+<hr>
 
 This repository contains the source code for my **personal portfolio website**, built using **React**, **Tailwind CSS**, and a clean, component-driven architecture.
 
